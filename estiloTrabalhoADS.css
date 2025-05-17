@@ -1,0 +1,48 @@
+body{
+    background-color: #f2eee6;
+}
+
+.titulo{
+    list-style:upper-alpha; 
+    color: rgb(224, 95, 15);
+    text-align: center;
+ }
+
+.para1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: justify;
+}
+
+ul li{
+    margin-top: 10px;
+}
+
+img{
+    border-radius: 10px;
+}
+.titulopaises{
+    font-size:medium;
+    text-align: center;
+}
+table{
+    width: 40%;
+    text-align: center;
+    margin: 0 auto;
+    
+}
+th, td {
+  border: 1px solid #ccc
+  
+}
+th {
+  background-color: hsl(19, 94%, 51%)
+}
+
+a {
+  color: blue; 
+}
+
+a:hover{
+    color:darkmagenta;
+}
